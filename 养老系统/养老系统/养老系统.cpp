@@ -8,3 +8,8 @@ typedef int QElemType;
 #define ERROR 0
 #define INEASIRLE -1
 #define OVERFLOW -2
+
+int main()
+{
+
+}
